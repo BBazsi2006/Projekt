@@ -1,4 +1,3 @@
-Nonprofit adományozó webalkalmazás
 🌿 Nonprofit adományozó webalkalmazás
 
 Ez a webalkalmazás egy nonprofit szervezet számára készült, amelynek célja, hogy összekösse az adományozókat és az alapítványokat.
